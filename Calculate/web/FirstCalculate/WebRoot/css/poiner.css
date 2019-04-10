@@ -1,0 +1,144 @@
+[genuitec-file-id="wc2-12"],[genuitec-lp-path="/StudentInformation/WebRoot/css/poiner.css"],[genuitec-lp-enabled=false]{
+  /* for codelive */
+}
+
+/*body{
+	background-color: rgb(243,243,243);
+	position: relative;
+}*/
+
+
+
+.head{
+	width: 100%;
+	height: 70px;
+	background-color:rgb(255,255,255); 
+	position: fixed;
+	top: 0px;
+	z-index: 99;
+	line-height: 70px;
+	border-bottom: 2px  #4B92DB solid;
+}
+.logol{
+	width: 360px;
+	height: 65px;
+	/*background-color: pink;*/
+	text-align: center;
+	line-height: 65px;
+	font-size: 30px;
+	color: #4B92DB ;
+	float: left;
+	
+}
+.mainbody{
+	width: 600px;
+	height: 800px;
+	background-color:white;
+	position: relative;
+	top: 80px;
+    margin-left: -300px;
+	left: 50%;
+	border:1px solid #EEE7E7;
+}
+.mainbody img{
+	width: 100%;
+	height: 100%;
+}
+.ggg{
+	color: #4B92DB;
+    text-decoration: none;
+    direction: none;
+}
+.ggg:hover{
+	color: #4213A3;
+	text-decoration: none;
+	 direction: none;
+}
+.daying{
+	width: 40px;
+    height:40px;   
+    float: right;
+    margin-right: 20px;
+    border-radius: 50%;
+    margin-top: 15px;
+    background-image: url('../images/daying.png');
+    background-size: 80% 80%;
+    background-repeat: no-repeat;
+    background-position: 4px 4px;
+    cursor: pointer;
+     border:2px solid #4B92DB;
+}
+.dayingg{
+	width: 60px;
+    height:30px;   
+    float: right;
+    color:#4B92DB;
+    line-height: 30px;
+    text-align: center; 
+    margin-right:160px;
+   
+    margin-top: 20px;
+    
+   
+  
+  
+    cursor: pointer;
+     border:2px solid #4B92DB;
+}
+.search{
+	width: 40px;
+    height:40px;   
+    float: right;
+    margin-right: 20px;
+    border-radius: 50%;
+    margin-top: 15px;
+    background-image: url('../images/search.png');
+    background-size: 60% 60%;
+    background-repeat: no-repeat;
+    background-position: 8px 8px;
+    cursor: pointer;
+    border:2px solid #4B92DB;
+}
+.daying:hover{
+	background-color: #E4E0E0;
+}
+.daying:active{
+	background-color: #A19B9C;
+}
+.search:hover{
+	background-color: #E4E0E0;
+}
+.search:active{
+	background-color: #A19B9C;
+}
+.dayingg:hover{
+	background-color: #E4E0E0;
+}
+
+.dayingg:active{
+	background-color: #A19B9C;
+}
+.dayingg a{
+	color:#4B92DB;
+	text-decoration:none;
+}
+.bbbb{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: #1D1D1D;
+    position: fixed;
+    z-index: -1;
+    opacity: 0.5;
+  
+}
+.bacc{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: pink;
+    position: fixed;
+    z-index: -2;
+    background-image: url('../images/thesi.jpg');
+    background-size: 100% 130%;
+}

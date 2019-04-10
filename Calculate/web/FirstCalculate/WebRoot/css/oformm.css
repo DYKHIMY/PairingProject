@@ -1,0 +1,209 @@
+[genuitec-file-id="wc2-11"],[genuitec-lp-path="/StudentInformation/WebRoot/css/oform.css"],[genuitec-lp-enabled=false]{
+  /* for codelive */
+}
+a{
+	text-decoration: none;
+	color: #4B92DB;
+}
+.chamian{
+	width: 200px;
+	height: 120px;
+	background-color: white;
+	border:2px solid #4B92DB;
+	position: absolute;
+	right: 20px;
+	top: 70px;
+    display: none;
+}
+.kk{
+	width: 130px;
+    height:30px;   
+    margin-left: 40px;
+    margin-right: 80px;
+    text-align: center;
+    line-height: 30px;
+    color:  #4B92DB;
+    margin-top: 15px;
+    cursor: pointer;
+    border:2px solid #4B92DB;
+}
+	.bbbb{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: #1D1D1D;
+    position: fixed;
+    z-index: -2;
+    opacity: 0.5;
+  
+}
+.bacc{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: pink;
+    position: fixed;
+    z-index: -3;
+    background-image: url('images/thesi.jpg');
+    background-size: 100% 130%;
+}
+
+.searchh{
+	width: 100px;
+    height:30px;   
+    float: right;
+    margin-right: 80px;
+    text-align: center;
+    line-height: 30px;
+    color:  #4B92DB;
+    margin-top: 15px;
+    cursor: pointer;
+    border:2px solid #4B92DB;
+
+}
+
+.searchh:hover{
+	background-color: #E4E0E0;
+	color: white;
+}
+.searchh:active{
+	background-color: #A19B9C;
+}
+.kk:hover{
+	background-color: #E4E0E0;
+	color: white;
+}
+.kk:active{
+	background-color: #A19B9C;
+}
+.vp:hover{
+	background-color: #E4E0E0;
+	color: white;
+}
+.vp:active{
+	background-color: #A19B9C;
+}
+.duzi{
+	width: 700px;
+	height: 450px;
+	background-color: white;
+	position: absolute;
+	top: 80px;
+	left: 50%;
+	border:2px solid #4B92DB;
+	margin-left: -350px;
+	display: none;
+}
+.otou{
+	width: 200px;
+	height: 50px;
+	font-size: 25px;
+	color:#4B92DB;
+	line-height: 50px; 
+	margin-left: 30px;
+	/*background-color: pink;*/
+}
+.mmainduzi{
+	width: 600px;
+	height: 450px;
+	/*background-color: pink;*/
+	margin-left: 50px;
+}
+.mmainduzi span{
+	margin-left: 10px;
+	display: inline-block;
+	margin-top: 20px;
+	width: 70px;
+	/*background-color: red;*/
+}
+.mmainduzi select{
+	width: 200px;
+	display: inline-block;
+}
+.oinput{
+	width: 196px;
+	height: 20px;
+	margin-top: 20px;
+    /*position: relative;
+    left: 155px;*/
+    /*cursor: pointer;*/
+}
+.anan{
+	width: 150px;
+	
+	top: 70px;
+	height: 28px;
+    position: relative;
+    left: 135px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.anano{
+	width: 150px;
+	
+	top: 50px;
+	height: 28px;
+    position: relative;
+    left: 135px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.to{
+	height: 400px;
+	display: block;
+}
+.eo{
+	float:right;
+	margin-right:500px;
+	border:2px solid #4B92DB;
+	height:32px;
+	width:100px;
+	margin-top:30px;
+	cursor:pointer;
+
+}
+
+.mmm{
+	float:left;
+	margin-left:50px;
+	margin-top:15px;
+	height:30px;
+	width:250px;
+	
+}
+.vp{
+	float:left;
+	margin-left:100px;
+	margin-top: 15px;
+	border:2px solid #4B92DB;
+	cursor: pointer;
+}
+.cp{
+	display:none;
+	height:200px;
+	margin-top: 40px;
+}
+.hhh{
+	float: left;
+	height:30px;
+	width:250px;
+	margin-left:54px;
+}
+.eoo{
+	float:left;
+	
+	height:32px;
+	width:100px;
+	margin-left: 100px;
+	
+    width: 100px;
+    height:30px;   
+    
+    
+    text-align: center;
+    line-height: 30px;
+    color:  #4B92DB;
+    
+    
+    
+}

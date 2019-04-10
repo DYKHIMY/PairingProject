@@ -1,0 +1,174 @@
+
+.searchDiv{
+	position: fixed;
+	right: 110px;
+	width: 300px;
+	height: 250px;
+	background-color:rgb(255,255,255);
+	top: 90px;
+	display: none;
+	z-index: 99;
+}
+.sanjiao{
+	
+	  width:0;
+    height:0;
+    border-width:0 10px 10px;
+    border-style:solid;
+    border-color:transparent transparent rgb(255,255,255);;/*透明 透明  灰*/
+    left: 50%;
+    top: -10px;
+    margin-left: -10px;
+    position:absolute;
+}
+.bbbb{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: #1D1D1D;
+    position: fixed;
+    z-index: 2;
+    opacity: 0.5;
+  
+}
+.bacc{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: pink;
+    position: fixed;
+    z-index: 1;
+    background-image: url('images/thesi.jpg');
+    background-size: 100% 130%;
+}
+	/*.bbbb{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: #1D1D1D;
+    position: fixed;
+    z-index: -2;
+    opacity: 0.5;
+  
+}
+.bacc{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: pink;
+    position: fixed;
+    z-index: -3;
+    background-image: url('images/thesi.jpg');
+    background-size: 100% 130%;
+}*/
+.xuanone{
+	/*background-color: pink;*/
+	height: 30px;
+	width: 100px;
+	position: absolute;
+	left: 20px;
+	top: 20px;
+
+}
+.xuantwo{
+	/*background-color: pink;*/
+	height: 30px;
+	width: 100px;
+	position: absolute;
+	left: 120px;
+	top: 20px;
+
+}
+.xuansan{
+	position: absolute;
+	left: 220px;
+	top: 20px;
+}
+.xuansan input{
+	width: 60px;
+
+}
+.xuansi{
+	position: absolute;
+	left: 20px;
+	top: 60px;
+}
+.xuanwu{
+	position: absolute;
+	left: 20px;
+	top:100px;
+}
+.xuansix{
+	position: absolute;
+	left: 120px;
+	top:100px;
+}
+.xuanqi{
+	position: absolute;
+	left: 220px;
+	top: 100px;
+}
+.xuanqi input{
+	width: 60px;
+
+}
+.xuanba{
+	position: absolute;
+	left: 20px;
+	top: 140px;
+}
+.xuanjiu{
+	position: absolute;
+	left: 20px;
+	top: 180px;
+    width: 260px;
+    cursor: pointer;
+}
+
+.centerrr{
+	position: absolute;
+	top: 100px;
+	width: 1200px;
+	z-index: 50;
+	left:50%;
+	margin-left: -600px;
+}
+.tou{
+	width: 1200px;
+	height: 40px;
+	margin-bottom: 2px;
+   font-size: 20px;
+
+}
+.tou li{
+    list-style: none;
+    float: left;
+    background-color:white;
+    width: 200px;
+    height: 40px;
+    margin-right: 2px;
+    text-align: center;
+    line-height: 40px;
+}
+.ti{
+	width: 1200px;
+	height: 40px;
+	margin-bottom: 2px
+
+}
+.ti li{
+    list-style: none;
+    float: left;
+    background-color: rgba(225,225,225,0.95);
+    width: 200px;
+    height: 40px;
+    margin-right: 2px;
+    text-align: center;
+    line-height: 40px
+}
+.oo{
+	width: 100px;
+	height: 40px;
+	/*background-color: pink;*/
+	display: inline-block;
+}
